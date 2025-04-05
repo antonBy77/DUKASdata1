@@ -67,3 +67,4 @@ curl -X POST -H "Content-Type: application/json" -d '{
 ## Дополнительная информация
 
 Более подробную информацию можно найти на [сайте проекта](https://www.dukascopy-node.app/).
+# DUKASdata
